@@ -1,2 +1,2 @@
-# Welcome-page
+# welcome-page
 Brief description of the company. 
